@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    width: 100vw;
+    height: 100vh;
+    background-color: chartreuse;
+    background-size: 100% 100%;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+label {
+    font-size: 20px;
+    margin: 20px 0px 4px 0px;
+  }
+
+  a {
+      color: rgb(0, 0, 0);
+      text-align: center;
+      background-origin: padding-box;
+      
+  }
+
